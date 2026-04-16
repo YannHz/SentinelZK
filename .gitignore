@@ -1,18 +1,8 @@
-# entornos virtuales
-venv/
-env/
-
-# archivos de entorno
 .env
-
-# cache de python
 __pycache__/
-*.py[cod]
-
-# db local
-*.sqlite3
+*.pyc
 *.db
-
-# archivos temporales de excel y reportes generados
-*.xlsx
-*.csv
+*.exe
+dist/
+build/
+*.spec
